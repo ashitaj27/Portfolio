@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio/static/js/main.176043eb.js",
+    "static/media/Truck.png": "/Portfolio/static/media/Truck.6d1121bec80715fd0624.png",
+    "static/media/Eduford.png": "/Portfolio/static/media/Eduford.d3f5f6b626eb7011c0d4.png",
+    "static/media/Ecommerce.png": "/Portfolio/static/media/Ecommerce.73f059de1956eced7e70.png",
+    "static/media/Lmsclone.png": "/Portfolio/static/media/Lmsclone.4acff592e678b4b5f026.png",
+    "static/media/SurveyAdd.jpg": "/Portfolio/static/media/SurveyAdd.5a68d30290f7de19f897.jpg",
+    "static/media/Bgchanger.png": "/Portfolio/static/media/Bgchanger.2992d59fdf7eb578050f.png",
+    "static/media/Responsive.png": "/Portfolio/static/media/Responsive.5726311d194561ba3b46.png",
+    "static/media/UserRegistration.jpg": "/Portfolio/static/media/UserRegistration.bb3e60b3c038170717a6.jpg",
+    "static/media/Calculator.png": "/Portfolio/static/media/Calculator.cd7e42c391edc0072fb8.png",
+    "static/media/HeroImage.jpg": "/Portfolio/static/media/HeroImage.1cd51361b29c6b933ea1.jpg",
+    "static/media/WordCounter.png": "/Portfolio/static/media/WordCounter.b935ad7923c718efdb7e.png",
+    "static/media/Tictactoe.png": "/Portfolio/static/media/Tictactoe.e0a8aae31739569f6fa8.png",
+    "static/media/QuoteGenerator.png": "/Portfolio/static/media/QuoteGenerator.c979aa537b93f486973f.png",
+    "index.html": "/Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
+    "main.176043eb.js.map": "/Portfolio/static/js/main.176043eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.176043eb.js"
+  ]
+}
